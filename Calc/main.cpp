@@ -10,6 +10,7 @@ int main()
 
     inputData(arg_1, arg_2, yourChoose);
     std::cout << "\n rezult = " << calculate(arg_1, arg_2, yourChoose);
+    std::cout << "Finished!";
 
     return 0;
 }
